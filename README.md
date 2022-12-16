@@ -4,7 +4,3 @@
  
  
 
-<img width="513" height="600" alt="Screenshot 2022-12-07 at 4 41 05 PM" src="https://user-images.githubusercontent.com/88231640/208045179-b3b36dea-a979-4509-aee5-e289503626d6.png">
-<img width="513" alt="Screenshot 2022-12-07 at 8 21 12 PM" src="https://user-images.githubusercontent.com/88231640/208045225-5496e13e-0804-42ea-aa04-e9a7ef9c5d58.png">
-<img width="513" alt="Screenshot 2022-12-07 at 8 21 46 PM" src="https://user-images.githubusercontent.com/88231640/208045251-2eeb6b90-9060-4697-a9b0-810ff7519201.png">
-<img width="513" alt="Screenshot 2022-12-07 at 8 21 33 PM" src="https://user-images.githubusercontent.com/88231640/208045267-3b73663c-e6df-4943-be08-47f42a94612c.png">
