@@ -30,7 +30,7 @@ We developed an iOS Application. The main aim of this app is to make the experie
 5. Adobe XD
 6. MVC Architecture
 
-# What do you hope to learn from doing this project? 
+# What did we learn while doing this project? 
 By doing this project, we can learn how to manage, organise and collaborate with team to create a scalable mobile application  from the scratch and publish it to the customers via Apple Store. Also, we could learn task management, creation of initial research documentations, Mockups and Hi-Fi design.
 Moreover, we got a chance to explore the latest technologies and tools such as Firebase, Payment SDK, Swift 5  in the market.
 
