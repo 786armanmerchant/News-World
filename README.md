@@ -1,6 +1,5 @@
 # News World 🌏
 ##### "News you can use"
-![News World 001](https://user-images.githubusercontent.com/88231640/208173980-cc9039e7-9b12-4b1a-add1-08f235300e1c.jpeg)
 
 # Captsone - Fall 2022 CAD - Conestoga College
 # Professor Name: Bruna Do Nascimento Figueredo
