@@ -31,6 +31,7 @@ By doing this project, we can learn how to manage, organise and collaborate with
 Moreover, we got a chance to explore the latest technologies and tools such as Firebase, Payment SDK, Swift 5  in the market.
 
 # Screens
+## Light Mode
 ![LIghtMode 001](https://user-images.githubusercontent.com/88231640/208186142-d3222b5e-f597-49c3-a345-f672cfc5be42.jpeg)
 
 
