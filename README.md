@@ -34,6 +34,9 @@ Moreover, we got a chance to explore the latest technologies and tools such as F
 ## Light Mode
 ![LIghtMode 001](https://user-images.githubusercontent.com/88231640/208186142-d3222b5e-f597-49c3-a345-f672cfc5be42.jpeg)
 
+## Light Mode
+![DarkMode 017](https://user-images.githubusercontent.com/88231640/208187211-e1a5f4b6-3bb6-4cac-9d30-9f97e595190b.jpeg)
+
 
  
  
