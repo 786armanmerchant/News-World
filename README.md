@@ -16,7 +16,7 @@
 # Date: December 15th, 2022
 
 # Introduction
-We developed an iOS Application. The main aim of this app is to make the experience of user to view news on an application easy to use with such functionality which will make the user to use this app on regular basis. This app have features like country selection, sports scores, categories and language selection which will make it even easier to use.
+We have developed an iOS Application. The main aim of this app is to make the experience of user to view news on an application easy to use with such functionality which will make the user to use this app on regular basis. This app have features like country selection, sports scores, categories and language selection which will make it even easier to use.
 
 # User Flow
 ![Navigation_Diagram](https://user-images.githubusercontent.com/88231640/208172871-89ab970a-1a00-4e03-8c8f-18bb0195d8f5.jpg)
