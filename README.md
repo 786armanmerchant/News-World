@@ -22,7 +22,7 @@ We developed an iOS Application. The main aim of this app is to make the experie
 1. Firebase realtime database 
 2. Xcode
 3. Swift
-4. AREST API
+4. REST API
 5. Adobe XD
 6. MVC Architecture
 
