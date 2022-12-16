@@ -30,6 +30,9 @@ We developed an iOS Application. The main aim of this app is to make the experie
 By doing this project, we can learn how to manage, organise and collaborate with team to create a scalable mobile application  from the scratch and publish it to the customers via Apple Store. Also, we could learn task management, creation of initial research documentations, Mockups and Hi-Fi design.
 Moreover, we got a chance to explore the latest technologies and tools such as Firebase, Payment SDK, Swift 5  in the market.
 
+# Screens
+![LIghtMode 001](https://user-images.githubusercontent.com/88231640/208186142-d3222b5e-f597-49c3-a345-f672cfc5be42.jpeg)
+
 
  
  
