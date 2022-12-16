@@ -1,7 +1,9 @@
 # News World 🌏
 ##### "News you can use"
+![News World 001](https://user-images.githubusercontent.com/88231640/208173727-9ba950c3-762e-4f8e-86b9-7df0fffae8fc.jpeg)
 
-# Captsone - Fall 2022
+
+# Captsone - Fall 2022 Computer Application Development - Conestoga College
 # Professor Name: Bruna Do Nascimento Figueredo
 # Group: Swift Legacy
 # Contributors: 
