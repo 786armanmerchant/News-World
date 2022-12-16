@@ -3,7 +3,7 @@
 
 # Captsone - Fall 2022 CAD - Conestoga College
 # Professor Name: Bruna Do Nascimento Figueredo
-# Group: Swift Legacy
+# Team 2: Swift Legacy
 # Contributors: 
     1. Arman Merhcant (Developer)
     2. Salman Merchant (Designer)
