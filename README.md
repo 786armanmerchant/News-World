@@ -1,6 +1,8 @@
 # News World 🌏
 ##### "News you can use"
-![logodark](https://user-images.githubusercontent.com/88231640/208187865-069402da-9d19-4c5a-8253-62c045af0341.png)
+![logodark](https://user-images.githubusercontent.com/88231640/208188014-2b5e2a6a-7e83-4634-a5bf-1a462277da69.png)
+
+
 
 
 # Captsone - Fall 2022 CAD - Conestoga College
